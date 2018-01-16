@@ -11,7 +11,7 @@
 
     <groupId>org.codehaus.btm</groupId>
     <artifactId>btm-parent</artifactId>
-    <version>3.0.0-SNAPSHOT</version>
+    <version>3.0.0-COB-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Bitronix Transaction Manager</name>
