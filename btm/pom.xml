@@ -184,7 +184,7 @@ public final class Version {
                     <instructions>
                         <Bundle-Activator>bitronix.tm.osgi.Activator</Bundle-Activator>
                         <Bundle-SymbolicName>bitronix.tm</Bundle-SymbolicName>
-                        <Export-Package>bitronix.tm,bitronix.tm.utils,bitronix.tm.resource.jdbc</Export-Package>
+                        <Export-Package>bitronix.tm,bitronix.tm.utils,bitronix.tm.resource.jdbc,bitronix.tm.resource.jdbc.lrc</Export-Package>
                         <Import-Package>
                             javassist,
                             net.sf.cglib.proxy,
